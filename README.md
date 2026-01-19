@@ -37,11 +37,3 @@ A modern, minimalist dashboard for managing Spy Cat Agency agents. Built with **
    Navigate to http://localhost:3000
 
 > Note: Ensure the Backend API is running on port 8000 for data fetching to work correctly.
-
-## Project Structure
-
-src/
-├── app/             # App Router pages
-├── components/      # Reusable UI components (Header, CatCard, Toast)
-├── hooks/           # Custom hooks (useCats) for API logic
-└── types/           # TypeScript interfaces
